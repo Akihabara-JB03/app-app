@@ -2,4 +2,4 @@
 proc m() {.importc: "m",cdecl.}
 
 m()
-echo ---100万回の"Hello, World!!"に耐えられましたか？---
+echo ---"100万回のHello, World!!に耐えられましたか？---"
