@@ -27,7 +27,7 @@ void c() {
 void d() {
     c();c();c();c();c();c();c();c();c();c();
 }
-int main() {
+int m() {
     d();d();d();d();d();d();d();d();d();d();d();d();d();d();d();d();d();d();d();d();
     printf("%s",kekka);
 }
