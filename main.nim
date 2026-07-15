@@ -1,4 +1,4 @@
-{.compile "100.c".}
+{.compile: "100.c".}
 proc m() {.importc: "m",cdecl.}
 
 m()
