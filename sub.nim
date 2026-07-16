@@ -1,4 +1,4 @@
-proc m10(nyu2) :
+proc m10() :
   m()
   m()
   m()
