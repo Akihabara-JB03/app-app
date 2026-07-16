@@ -28,6 +28,7 @@ void d() {
     c();c();c();c();c();c();c();c();c();c();
 }
 int m() {
+    ptr = kekka;
     d();d();d();d();d();d();d();d();d();d();d();d();d();d();d();d();d();d();d();d();
     printf("%s",kekka);
 }
