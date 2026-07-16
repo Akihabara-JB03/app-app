@@ -1,6 +1,6 @@
 proc m() {.importc: "m", cdecl.}
 
-proc m10*() :
+proc m10*() =
   m()
   m()
   m()
